@@ -10,21 +10,26 @@ namespace Entity.Layer
     [DataContract]
     public class Prestamo
     {
+
         public Prestamo()
         {
-            this.tipoPrestamo = new TipoPrestamo();
+            _tipo = new TipoPrestamo();
         }
         private TipoPrestamo _tipo;
-  
+
 
         [DataMember]
         public string Linea
         {
-            get { return _tipo.Linea; }
+            get { return _tipo.Linea;}
+            set { _tipo.Linea = value; }
            
         }
+
         [DataMember]
-        public double TNA { get => _tipo.TNA; }
+        public double TNA { get => _tipo.TNA; set => _tipo.TNA = value; }
+
+
         [DataMember]
         public double Monto { get; set; }
         [DataMember]
