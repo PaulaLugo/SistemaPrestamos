@@ -1,0 +1,11 @@
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\bin\Debug\Data.Layer.dll
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\bin\Debug\Data.Layer.pdb
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\bin\Debug\Entity.Layer.dll
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\bin\Debug\Entity.Layer.pdb
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\obj\Debug\Data.Layer.csprojAssemblyReference.cache
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\obj\Debug\Data.Layer.csproj.CoreCompileInputs.cache
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\obj\Debug\Data.Layer.csproj.CopyComplete
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\obj\Debug\Data.Layer.dll
+C:\Users\lugoisol\source\repos\SistemaPrestamos\Data.Layer\obj\Debug\Data.Layer.pdb

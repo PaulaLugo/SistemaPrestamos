@@ -1,0 +1,13 @@
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\bin\Debug\business.Layer.dll
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\bin\Debug\business.Layer.pdb
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\bin\Debug\Data.Layer.dll
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\bin\Debug\Entity.Layer.dll
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\bin\Debug\Data.Layer.pdb
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\bin\Debug\Entity.Layer.pdb
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\obj\Debug\business.Layer.csprojAssemblyReference.cache
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\obj\Debug\business.Layer.csproj.CoreCompileInputs.cache
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\obj\Debug\business.Layer.csproj.CopyComplete
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\obj\Debug\business.Layer.dll
+C:\Users\lugoisol\source\repos\SistemaPrestamos\business.Layer\obj\Debug\business.Layer.pdb
